@@ -19,7 +19,7 @@
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andressa-santos-969768165/)
-📸 Instagram: [@dressa.dev](https://instagram.com/dressa.dev)
+📸 Instagram: [@dressa.tech](https://instagram.com/dressa.tech)
 
 ---
 💬 “Sempre aprendendo, sempre compartilhando.”
