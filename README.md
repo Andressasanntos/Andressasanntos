@@ -3,7 +3,7 @@
 🎓 Estudante de Engenharia de Software e Redes  
 🔍 Explorando desenvolvimento, redes e cibersegurança  
 💻 Apaixonada por tecnologia e sempre buscando aprender mais  
-📚 Certificada Redes e Cibersegurança pela Cisco  
+📚 Certificada em Redes e Cibersegurança pela Cisco  
 ✨ Compartilhando meu aprendizado aqui e no Instagram!
 
 ## 🚀 Tecnologias e Ferramentas
